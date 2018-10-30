@@ -2,7 +2,7 @@
 
 Credit to Antonio Sánchez Chinchón, Data Scientist at Telefónica.
 
-Introduction:
+Introduction & project description:
 
 Do women live longer than men? How long? Does it happen everywhere? Is life expectancy increasing? Everywhere? Which is the country with the lowest life expectancy? Which is the one with the highest? In this Project, you will answer all these questions by manipulating and visualizing United Nations life expectancy data using ggplot2. We recommend that you have completed Introduction to the Tidyverse and Chapter 2 of Cleaning Data in R before starting this Project.
 
